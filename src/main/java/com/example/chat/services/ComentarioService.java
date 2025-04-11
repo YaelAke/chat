@@ -7,6 +7,7 @@ import org.springframework.stereotype.Service;
 @Service
 public class ComentarioService {
 
+    //Aplicar el filtrado AOP antes de su ejecución
     @RevisarFiltro
     public void procesarComentario(String mensaje) {
         Comentario comentario = new Comentario(mensaje);
