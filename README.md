@@ -14,7 +14,7 @@ Este proyecto implementa una aplicación de consola en Java con Spring Boot, que
 - **Spring Boot**  
 - **Spring AOP**  
 - **Maven** como sistema de construcción  
-- **Scanner (Java SE)** para entrada por consola  
+- **Scanner** para entrada por consola  
 
 ---
 
